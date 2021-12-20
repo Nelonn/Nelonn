@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Discord: Nelonn#1808
-Telegram: @nelonn
+- Discord: Nelonn#1808
+- Telegram: @nelonn
 
 <!--
 **Nelonn/Nelonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
