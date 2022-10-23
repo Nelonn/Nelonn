@@ -3,6 +3,8 @@
 - Discord: Nelonn#1808
 - Telegram: @nelonn
 
+Site made by me, using react.js - https://ruslanbogachev.com/
+
 <!--
 **Nelonn/Nelonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
