@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Discord: Nelonn#1808
-- Telegram: @nelonn
+- Telegram: @thenelonn
 
 Site made by me, using react - https://ruslanbogachev.com/
 
