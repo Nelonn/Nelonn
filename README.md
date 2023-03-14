@@ -3,7 +3,7 @@
 - Discord: Nelonn#1808
 - Telegram: @thenelonn
 
-Site made by me, using react - https://ruslanbogachev.com/
+Java/Golang Developer
 
 <!--
 **Nelonn/Nelonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
