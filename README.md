@@ -3,7 +3,7 @@
 - Discord: Nelonn#1808
 - Telegram: @thenelonn
 
-Best project: [FlowDrop](https://github.com/FlowDrop)
+Mega ultra best project: FlowDrop: [Desktop](https://github.com/noseam-env/flowdrop-qt) [Android](https://github.com/noseam-env/flowdrop-android)
 
 Languages:
 - Java
