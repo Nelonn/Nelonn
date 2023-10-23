@@ -6,6 +6,9 @@
 ## Projects
 
 - **FlowDrop**: [Desktop](https://github.com/noseam-env/flowdrop-qt) [Android](https://github.com/noseam-env/flowdrop-android)
+- [ProPack](https://github.com/Nelonn/ProPack)
+- EntityComposer soon...
+- [bestvecs](https://github.com/Nelonn/bestvecs)
 
 ## Languages
 
