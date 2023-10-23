@@ -5,9 +5,10 @@
 
 Mega ultra best project: FlowDrop: [Desktop](https://github.com/noseam-env/flowdrop-qt) [Android](https://github.com/noseam-env/flowdrop-android)
 
-Languages:
-- Java
-- Go
-- C++
-- C#
+## Languages
 
+- Java: **PaperMC** SpringBoot
+- C / C++
+- Go
+- C#
+- JavaScript/TypeScript: React, NodeJS, Vite, Webpack
