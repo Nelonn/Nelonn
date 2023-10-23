@@ -7,7 +7,7 @@ Mega ultra best project: FlowDrop: [Desktop](https://github.com/noseam-env/flowd
 
 ## Languages
 
-- Java: **PaperMC** SpringBoot
+- Java: **PaperMC**, Android, Appcompat, SpringBoot
 - C / C++
 - Go
 - C#
