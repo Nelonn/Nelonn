@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- Discord: Nelonn#1808
-- Telegram: @thenelonn
+- Discord: @nelonn
+- Telegram: @magnoliand
 
 ## Projects
 
