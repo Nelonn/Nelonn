@@ -13,7 +13,7 @@
 
 ## Languages
 
-- Java: **PaperMC**, Android, Appcompat, SpringBoot
+- Java: **PaperMC**, **FabricMC**, Android, SpringBoot
 - C / C++
 - Golang
 - C#
