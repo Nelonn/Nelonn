@@ -8,7 +8,7 @@
 - **FlowDrop**: [Desktop](https://github.com/noseam-env/flowdrop-qt) [Android](https://github.com/noseam-env/flowdrop-android)
 - [ProPack](https://github.com/Nelonn/ProPack)
 - [Coprolite](https://github.com/Nelonn/coprolite)
-- EntityComposer soon...
+- [CustomItems](https://github.com/Nelonn/CustomItems)
 - [bestvecs](https://github.com/Nelonn/bestvecs)
 
 ## Languages
