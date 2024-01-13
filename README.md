@@ -9,7 +9,6 @@
 - [ProPack](https://github.com/Nelonn/ProPack)
 - [Coprolite](https://github.com/Nelonn/coprolite)
 - [CustomItems](https://github.com/Nelonn/CustomItems)
-- [bestvecs](https://github.com/Nelonn/bestvecs)
 
 ## Languages
 
