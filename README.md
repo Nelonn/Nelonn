@@ -16,4 +16,4 @@
 - C / C++
 - Golang
 - C#
-- JavaScript/TypeScript: React, NodeJS, Vite, Webpack
+- JavaScript/TypeScript: React, Next.js, Vite, Webpack
