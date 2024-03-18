@@ -6,6 +6,7 @@
 ## Projects
 
 - **FlowDrop**: [Desktop](https://github.com/noseam-env/flowdrop-qt) [Android](https://github.com/noseam-env/flowdrop-android)
+- [Ultimate APK patching guide](https://github.com/Nelonn/ultimate-apk-patching-guide)
 - [ProPack](https://github.com/Nelonn/ProPack)
 - [Coprolite](https://github.com/Nelonn/coprolite)
 - [CustomItems](https://github.com/Nelonn/CustomItems)
