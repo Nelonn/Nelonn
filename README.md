@@ -16,5 +16,5 @@
 - Java: **PaperMC**, **FabricMC**, Android, SpringBoot
 - C / C++
 - Golang
-- C#
-- JavaScript/TypeScript: React, Next.js, Vite, Webpack
+- _C#_
+- _JavaScript/TypeScript: React, Next.js, Vite, Webpack_
