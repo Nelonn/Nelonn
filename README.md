@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Discord: @nelonn
-- Telegram: @magnoliand
+- Telegram: @thenelonn
 
 ## Projects
 
