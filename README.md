@@ -13,8 +13,8 @@
 
 ## Languages
 
-- Java: **PaperMC**, **FabricMC**, Android, SpringBoot
+- Java: **SpringBoot**, **PaperMC**, **FabricMC**, Android
 - C / C++
 - Golang
-- _C#_
+- _C#: WPF_
 - _JavaScript/TypeScript: React, Next.js, Vite, Webpack_
