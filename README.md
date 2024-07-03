@@ -13,8 +13,8 @@
 
 ## Languages
 
-- Java: **SpringBoot**, **PaperMC**, **FabricMC**, Android
-- C / C++
+- Java: **SpringBoot**, **MC**, Android
+- C / C++: **Qt**, **Vulkan**, **OpenGL**, **PhysX**
 - Golang
 - _C#: WPF_
 - _JavaScript/TypeScript: React, Next.js, Vite, Webpack_
