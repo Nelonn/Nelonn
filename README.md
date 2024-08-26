@@ -5,13 +5,13 @@
 
 ## Projects
 
-- **FlowDrop**: [Desktop](https://github.com/noseam-env/flowdrop-qt) [Android](https://github.com/noseam-env/flowdrop-android)
-- [gitdeps](https://github.com/Nelonn/gitdeps)
+- **FlowDrop**: [Desktop](https://github.com/noseam-env/flowdrop-qt) [Android](https://github.com/noseam-env/flowdrop-android) (C, C++, Java)
+- [gitdeps](https://github.com/Nelonn/gitdeps) (Golang)
+- [ProPack](https://github.com/Nelonn/ProPack) (Java)
+- [Coprolite](https://github.com/Nelonn/coprolite) (Java)
+- [CustomItems](https://github.com/Nelonn/CustomItems) (Java)
+- [ActorEngine](https://github.com/Nelonn/ActorEngine) (Java)
 - [Ultimate APK patching guide](https://github.com/Nelonn/ultimate-apk-patching-guide)
-- [ProPack](https://github.com/Nelonn/ProPack)
-- [Coprolite](https://github.com/Nelonn/coprolite)
-- [CustomItems](https://github.com/Nelonn/CustomItems)
-- [ActorEngine](https://github.com/Nelonn/ActorEngine)
 
 ## Languages
 
