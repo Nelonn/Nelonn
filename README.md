@@ -16,7 +16,7 @@
 ## Languages
 
 - Java: **SpringBoot**, **MC**, Android
-- C / C++: **Qt**, **Vulkan**, **OpenGL**, **PhysX**
+- C / C++: **Qt**, **OpenGL**, **PhysX**
 - Golang
 - _C#: WPF_
 - _JavaScript/TypeScript: React, Next.js, Vite, Webpack_
