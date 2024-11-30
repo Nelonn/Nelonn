@@ -15,7 +15,7 @@
 
 ## Languages
 
-- Java: **SpringBoot**, **MC**, Android
+- Java: **SpringBoot**, **Minecaft Modding**, Android
 - C / C++: **Qt**, **OpenGL**, **PhysX**
 - Golang
 - _C#: WPF_
