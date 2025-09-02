@@ -15,7 +15,7 @@
 
 ## Languages
 
-- Java: **SpringBoot**, Raw Hibernate, Android
+- Java: **SpringBoot**, Hibernate, Android
 - Golang
 - C / C++: **Qt**, **Vulkan**, **Metal**, **DirectX 11/12**, **OpenGL**
 - _C#: WPF_
