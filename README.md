@@ -15,8 +15,7 @@
 
 ## Languages
 
-- Java: **SpringBoot**, Hibernate, Android
+- Java / Kotlin: **SpringBoot**, Hibernate, Android
 - Golang
 - C / C++: **Qt**, **Vulkan**, **Metal**, **DirectX 11/12**, **OpenGL**
 - _JavaScript/TypeScript: Vue, React, Next.js, Vite, Webpack_
-- _C#: WPF_
