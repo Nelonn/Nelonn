@@ -5,7 +5,7 @@
 
 ## Projects
 
-- FlowDrop: [Desktop](https://github.com/noseam-env/flowdrop-qt) [Android](https://github.com/noseam-env/flowdrop-android) (C, C++, Java)
+- [OpenMedia](https://github.com/Nelonn/OpenMedia) (C++)
 - [gitdeps](https://github.com/Nelonn/gitdeps) (Golang)
 - [knotdeviceinfo](https://github.com/Nelonn/knotdeviceinfo) (C)
 - [knotdiscovery](https://github.com/Nelonn/knotdiscovery) (C)
