@@ -6,6 +6,7 @@
 ## Projects
 
 - [OpenMedia](https://github.com/Nelonn/OpenMedia) (C++)
+- [Bengal](https://github.com/Nelonn/bengal) (Rust)
 - [gitdeps](https://github.com/Nelonn/gitdeps) (Golang)
 - [knotdeviceinfo](https://github.com/Nelonn/knotdeviceinfo) (C)
 - [knotdiscovery](https://github.com/Nelonn/knotdiscovery) (C)
