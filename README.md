@@ -6,6 +6,7 @@
 ## Projects
 
 - [OpenMedia](https://github.com/Nelonn/OpenMedia) (C++)
+- [ProxySwarm](https://github.com/Nelonn/ProxySwarm)_(Golang + Rust)
 - [Bengal](https://github.com/Nelonn/bengal) (Rust)
 - [gitdeps](https://github.com/Nelonn/gitdeps) (Golang)
 - [knotdeviceinfo](https://github.com/Nelonn/knotdeviceinfo) (C)
@@ -18,7 +19,8 @@
 
 ## Languages
 
-- Java / Kotlin: **SpringBoot**, Hibernate, Android
 - Golang
 - C / C++: **Qt**, **Vulkan**, **Metal**, **DirectX 11/12**, **OpenGL**
+- Java / Kotlin: **SpringBoot**, Hibernate, Android
+- C#
 - _JavaScript/TypeScript: Vue, React, Next.js, Vite, Webpack_
