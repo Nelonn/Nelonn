@@ -6,7 +6,7 @@
 ## Projects
 
 - [OpenMedia](https://github.com/Nelonn/OpenMedia) (C++)
-- [ProxySwarm](https://github.com/Nelonn/ProxySwarm)_(Golang + Rust)
+- [ProxySwarm](https://github.com/Nelonn/ProxySwarm) (Golang + Rust)
 - [Bengal](https://github.com/Nelonn/bengal) (Rust)
 - [gitdeps](https://github.com/Nelonn/gitdeps) (Golang)
 - [knotdeviceinfo](https://github.com/Nelonn/knotdeviceinfo) (C)
